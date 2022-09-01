@@ -20,6 +20,7 @@ public partial class MainPage : ContentPage
 		canvas.Clear();
 
 		var painter = new CSharpMath.SkiaSharp.MathPainter();
+		painter.FontSize = 40;
 		painter.LaTeX = @"\frac\sqrt23";
 		painter.Draw(canvas);
 

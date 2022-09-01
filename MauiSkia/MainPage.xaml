@@ -6,7 +6,6 @@
              x:Class="MauiSkia.MainPage">
 
     <!--STEP 3-->
-    <skia:SKCanvasView PaintSurface="OnPaintSurface"/>
-
+        <skia:SKCanvasView PaintSurface="OnPaintSurface"/>
 
 </ContentPage>
