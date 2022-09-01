@@ -2,7 +2,8 @@
 Shows how to render Latex in MAUI.
 Using Skia and CSharpMath.
 
-There are 4 steps in the code. Marked with "STEP *"
+Start from empty MAUI template. Then follow the steps in this code.
+There are total of 4 steps in the code. Marked with "STEP *"
 
 ## In MAUI
 
